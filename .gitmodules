@@ -1,0 +1,3 @@
+[submodule "libs/springmon"]
+	path = libs/springmon
+	url = https://github.com/gajop/springmon.git

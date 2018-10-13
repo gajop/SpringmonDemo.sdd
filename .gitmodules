@@ -1,3 +1,6 @@
 [submodule "libs/springmon"]
 	path = libs/springmon
 	url = https://github.com/gajop/springmon.git
+[submodule "libs/spring-wrapper-connector"]
+	path = libs/spring-wrapper-connector
+	url = https://github.com/gajop/spring-wrapper-connector.git

@@ -4,3 +4,6 @@
 [submodule "libs/spring-wrapper-connector"]
 	path = libs/spring-wrapper-connector
 	url = https://github.com/gajop/spring-wrapper-connector.git
+[submodule "libs/chiliui"]
+	path = libs/chiliui
+	url = https://github.com/gajop/chiliui.git
